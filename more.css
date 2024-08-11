@@ -1,0 +1,32 @@
+.container{
+    padding: 20vh 20vw;
+}
+
+.container h1{
+    text-align: center;
+    font-size: 4.5em;
+    font-weight: bolder;
+}
+
+.container ul{
+    list-style:square;
+}
+
+.container a{
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+    color:#003049;
+    margin-bottom: 1em;
+}
+
+.container .btn{
+    background-color: #fff3b0;
+    color:#003049;
+    border: none;
+    box-shadow: 3px 3px 7px #c7c09b;
+}
+
+.notWiki{
+    font-size: 15px;
+}
